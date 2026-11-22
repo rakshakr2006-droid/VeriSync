@@ -1,0 +1,11 @@
+pymupdf
+pymupdf4llm
+rapidocr-onnxruntime
+sentence-transformers
+chromadb
+rank_bm25
+langchain-text-splitters
+ollama
+streamlit
+numpy
+pytest

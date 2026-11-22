@@ -1,0 +1,24 @@
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Storage and Circular PDFs
+data/circulars/
+store/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
